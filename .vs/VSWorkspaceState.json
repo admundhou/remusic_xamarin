@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\remusic_xamarin",
+    "\\remusic_xamarin\\Properties",
+    "\\remusic_xamarin\\Resources",
+    "\\remusic_xamarin\\Resources\\layout"
   ],
+  "SelectedNode": "\\remusic_xamarin\\MainActivity.cs",
   "PreviewInSolutionExplorer": false
 }
